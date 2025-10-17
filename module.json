@@ -1,0 +1,11 @@
+{
+  "name": "Dari-BH-Crimson-Clear",
+  "title": "Blood Hunter Crimson Rite Automation",
+  "description": "Automatically clears Crimson Rites on short/long rest for Blood Hunter characters.",
+  "version": "1.0.0",
+  "author": "YourName",
+  "esmodules": ["main.js"],
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "13",
+  "system": ["dnd5e"]
+}
