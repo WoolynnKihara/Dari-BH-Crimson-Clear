@@ -5,7 +5,6 @@
   "version": "1.0.0",
   "author": "YourName",
   "esmodules": ["main.js"],
-  "url": "https://USERNAME.github.io/blood-hunter-crimson-rite/main.js",
   "license": "MIT",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "13",
